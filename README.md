@@ -1,0 +1,14 @@
+# caiman-user 15 AP4A.241205.013 12621605 release-keys
+- manufacturer: google
+- platform: zumapro
+- codename: caiman
+- flavor: caiman-user
+- release: 15
+- id: AP4A.241205.013
+- incremental: 12621605
+- tags: release-keys
+- fingerprint: google/caiman/caiman:15/AP4A.241205.013/12621605:user/release-keys
+- is_ab: true
+- brand: google
+- branch: caiman-user-15-AP4A.241205.013-12621605-release-keys
+- repo: google_caiman_dump
