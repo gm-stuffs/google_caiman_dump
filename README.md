@@ -1,0 +1,14 @@
+# caiman-user 16 BP2A.250605.031.A2 13578606 release-keys
+- manufacturer: google
+- platform: zumapro
+- codename: caiman
+- flavor: caiman-user
+- release: 16
+- id: BP2A.250605.031.A2
+- incremental: 13578606
+- tags: release-keys
+- fingerprint: google/caiman/caiman:16/BP2A.250605.031.A2/13578606:user/release-keys
+- is_ab: true
+- brand: google
+- branch: caiman-user-16-BP2A.250605.031.A2-13578606-release-keys
+- repo: google_caiman_dump
