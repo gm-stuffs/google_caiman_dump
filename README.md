@@ -1,0 +1,14 @@
+# generic_system_google-user 16 BP4A.260205.002 14624737 release-keys
+- manufacturer: google
+- platform: zumapro
+- codename: caiman
+- flavor: generic_system_google-user
+- release: 16
+- id: BP4A.260205.002
+- incremental: 14624737
+- tags: release-keys
+- fingerprint: google/caiman/caiman:16/BP4A.260205.002/14624737:user/release-keys
+- is_ab: true
+- brand: google
+- branch: generic_system_google-user-16-BP4A.260205.002-14624737-release-keys
+- repo: google_caiman_dump
